@@ -7,18 +7,16 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+വെറുതെ start കുത്തി കളിക്കരുത്. സിനിമയുടെ ലിങ്ക് ആണ് വേണ്ടതെങ്കിൽ ഈ ഗ്രൂപ്പിൽ സിനിമയുടെ പേര് ടൈപ്പ് ചെയ്യ്, അപ്പോൽ ഞാൻ ലിങ്ക് തരാം എന്നിട്ട് ഇവിടെ വന്ന് start കൊടുക്കണം😜
+ഇനി ഇനേക്കൊണ്ട് വീണ്ടും വീണ്ടും പറയിപ്പിക്കരുത്. 🤷‍♂
+@FM_FilmMania
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+കണ്ട ബട്ടൺ CLICK ചെയ്ത്  HELP ചോദിയ്ക്കാൻ ഇത് നിന്റെ വമ്പാടി തറവാട് അല്ല... കിട്ടുന്ന MOVIES DOWNLOAD ചെയ്തോണ്ട് പോയിക്കോണം
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -43,16 +41,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@FM_FilmMania
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> ©BOSS•⁰²✓</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/FM_FilmMania">FM_Admin_owner</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/botfilters/Boss-v2">Click Me</a></i>
 """
