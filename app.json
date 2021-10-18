@@ -23,6 +23,10 @@
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
+        "TEXT_MEG_PH": {
+            "description": "TEXT_MEG_PH : go a telegraph bot",
+            "value": ""
+        },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
