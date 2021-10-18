@@ -21,24 +21,8 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 **__How To Use Me!?__**
 
-* -> Add me to any group and make me admin<br>
-* -> Add me to your channel as admin with full previlages
-
-**Bot Commands (Works Only In Groups) :**
-
-
-  * -> `/add chat_id`<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-OR
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To establish a connection of group with a channel (Bot should be admin with full previlages in both group and channel)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`/add @Username`
-
-
-  * -> `/del chat_id`<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-OR 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To delete a group's coneection with a channel (Use disable option from settigns pannel for disconnecting temporarily instead of deleteing)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp; `/del @Username`
+* -> കണ്ട ബട്ടൺ CLICK ചെയ്ത്  HELP ചോദിയ്ക്കാൻ ഇത് നിന്റെ വമ്പാടി തറവാട് അല്ല... കിട്ടുന്ന MOVIES DOWNLOAD ചെയ്തോണ്ട് പോയിക്കോണം...
+      @FM_FilmMania
 
 
   * -> `/delall`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To delete all connections of a group and deletes all its file from DB
@@ -73,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/botfilters/Boss-v2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
+git clone https://github.com/botfilters/Boss-v2
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -98,8 +82,8 @@ Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
-[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+[![GNU Affero General Public License v3.0](https://telegra.ph/file/1fc720d13508a946f09e1.jpg)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL v3.0.](https://github.com/botfilters/Boss-v2)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
