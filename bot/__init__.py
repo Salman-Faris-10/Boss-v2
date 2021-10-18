@@ -17,6 +17,8 @@ API_HASH = os.environ.get("API_HASH")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
+MASSAGE_PHOTO = os.environ.get("TEXT_MEG_PH")
+
 DB_URI = os.environ.get("DB_URI")
 
 USER_SESSION = os.environ.get("USER_SESSION")
